@@ -1,0 +1,2 @@
+asomada 37.656974 -1.002805 -999 UT 1 today tomorrow 15 180 0.2 1 "" unified
+panuelo 38.456889 -1.276778 -999 UT 1 today tomorrow 15 180 0.2 1 "" unified
