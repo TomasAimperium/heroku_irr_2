@@ -1,0 +1,10 @@
+uvicorn
+pydantic
+gunicorn
+fastapi
+uvloop
+httptools
+numpy 
+python-jose
+pandas
+requests
